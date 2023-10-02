@@ -24,8 +24,8 @@ jobs:
       run: dotnet tool restore
     - name: Run Linter
       run: |
-        sudo chmod +x ./.github/scripts/check.sh
-        ./.github/scripts/check.sh
+        sudo chmod +x check.sh
+        check.sh
       shell: bash
     - name: Restore dependencies
       run: dotnet restore
