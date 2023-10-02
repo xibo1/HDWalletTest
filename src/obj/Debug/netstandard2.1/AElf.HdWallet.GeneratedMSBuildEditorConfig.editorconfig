@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AElf.HdWallet
+build_property.ProjectDir = /Users/xibo/practice/AElf.HdWallet/src/

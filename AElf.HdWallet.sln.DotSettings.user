@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=7017ce7f_002D2d2d_002D4325_002D8f6c_002D9c3ad227d558/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Sign_ReturnsValidSignature" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6059DE1A-6317-44B0-9748-F3F3DDD8D9E3::net7.0::AElf.HdWallet.Tests.WalletTests.Sign_ReturnsValidSignature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a05a4206_002D870c_002D4f48_002D8c2d_002Df0cb58bcc2bc/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Sign_ReturnsValidSignature #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6059DE1A-6317-44B0-9748-F3F3DDD8D9E3::net7.0::AElf.HdWallet.Tests.WalletTests.Sign_ReturnsValidSignature&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

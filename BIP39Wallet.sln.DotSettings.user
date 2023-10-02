@@ -1,0 +1,17 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=0004c0bc_002D9196_002D410e_002Da3e9_002D4fa264a7e2df/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Mnemonic_GenerateCompressedKey #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6059DE1A-6317-44B0-9748-F3F3DDD8D9E3::net7.0::BIP39WalletUtils.Tests.WalletTests.DecompressedKeyToSign&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=6dc405dd_002Dbcbd_002D4c70_002D8ffc_002D01c690125217/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Mnemonic_GenerateCompressedKey" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6059DE1A-6317-44B0-9748-F3F3DDD8D9E3::net7.0::BIP39WalletUtils.Tests.WalletTests.DecompressedKeyToSign&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a88e38d2_002D024d_002D485e_002D96c0_002D0cf2b7a7696a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Sign_WithCompressedKeyAndDecompressedKey" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;xUnit::6059DE1A-6317-44B0-9748-F3F3DDD8D9E3::net7.0::BIP39WalletUtils.Tests.WalletTests.Sign_WithCompressedKeyAndDecompressedKey&lt;/TestId&gt;
+    &lt;TestId&gt;xUnit::6059DE1A-6317-44B0-9748-F3F3DDD8D9E3::net7.0::BIP39WalletUtils.Tests.WalletTests.Mnemonic_GenerateCompressedKey&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

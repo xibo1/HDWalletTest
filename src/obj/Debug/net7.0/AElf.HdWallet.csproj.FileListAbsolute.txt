@@ -1,0 +1,12 @@
+/Users/xibo/practice/AElf.HdWallet/src/bin/Debug/net7.0/AElf.HdWallet.deps.json
+/Users/xibo/practice/AElf.HdWallet/src/bin/Debug/net7.0/AElf.HdWallet.dll
+/Users/xibo/practice/AElf.HdWallet/src/bin/Debug/net7.0/AElf.HdWallet.pdb
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/AElf.HdWallet.csproj.AssemblyReference.cache
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/AElf.HdWallet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/AElf.HdWallet.AssemblyInfoInputs.cache
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/AElf.HdWallet.AssemblyInfo.cs
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/AElf.HdWallet.csproj.CoreCompileInputs.cache
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/AElf.HdWallet.dll
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/refint/AElf.HdWallet.dll
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/AElf.HdWallet.pdb
+/Users/xibo/practice/AElf.HdWallet/src/obj/Debug/net7.0/ref/AElf.HdWallet.dll
