@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iz+OVxprsP3yKsV/mMPsYNHflkePfvQnp9XIYQPUgh7pkhu4NkCt3OblG+AWRITKgiHufRAmJWEIGzEt+ZBoZw==",
+  "dgSpecHash": "/b8jSZhd4WyINZjpTIsfmTMMTwEFVxlUYm9phTWHhWtbD+9xGJ2MAFG+t+uTezMg/HN29UI5WunNT41UWCfzcA==",
   "success": true,
-  "projectFilePath": "/Users/xibo/practice/AElf.HdWallet/src/AElf.HdWallet.csproj",
+  "projectFilePath": "/Users/xibo/practice/HDWallet-test/src/AElf.HdWallet.csproj",
   "expectedPackageFiles": [
     "/Users/xibo/.nuget/packages/aelf.types/1.3.1/aelf.types.1.3.1.nupkg.sha512",
     "/Users/xibo/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xibo/practice/AElf.HdWallet/src/AElf.HdWallet.csproj": {}
+    "/Users/xibo/practice/HDWallet-test/src/AElf.HdWallet.csproj": {}
   },
   "projects": {
-    "/Users/xibo/practice/AElf.HdWallet/src/AElf.HdWallet.csproj": {
+    "/Users/xibo/practice/HDWallet-test/src/AElf.HdWallet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xibo/practice/AElf.HdWallet/src/AElf.HdWallet.csproj",
+        "projectUniqueName": "/Users/xibo/practice/HDWallet-test/src/AElf.HdWallet.csproj",
         "projectName": "AElf.HdWallet",
-        "projectPath": "/Users/xibo/practice/AElf.HdWallet/src/AElf.HdWallet.csproj",
+        "projectPath": "/Users/xibo/practice/HDWallet-test/src/AElf.HdWallet.csproj",
         "packagesPath": "/Users/xibo/.nuget/packages/",
-        "outputPath": "/Users/xibo/practice/AElf.HdWallet/src/obj/",
+        "outputPath": "/Users/xibo/practice/HDWallet-test/src/obj/",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "configFilePaths": [

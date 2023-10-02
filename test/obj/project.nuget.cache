@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FCQZK5B5ziQOuQrwE0/+S6IPS4WDuyMQuDjnuvu+cl/KtGz5TYuhGK3RWbyfM+TK+3/8VSVQDoDxAO0JIDGKLg==",
+  "dgSpecHash": "izZx/tOEe/m9t0b2o9wgOGvQfe6qwerhR2mGROfb/J8jZDLG5LCxou6Q0Bf7vHj4SMTRZboJOnx+e/QBSVeg9Q==",
   "success": true,
-  "projectFilePath": "/Users/xibo/practice/AElf.HdWallet/test/AElf.HdWallet.Tests.csproj",
+  "projectFilePath": "/Users/xibo/practice/HDWallet-test/test/AElf.HdWallet.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/xibo/.nuget/packages/aelf.cryptography/1.3.1/aelf.cryptography.1.3.1.nupkg.sha512",
     "/Users/xibo/.nuget/packages/aelf.types/1.3.1/aelf.types.1.3.1.nupkg.sha512",
