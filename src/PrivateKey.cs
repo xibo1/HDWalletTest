@@ -11,7 +11,7 @@ namespace AElf.HdWallet
         private BitcoinKey _bitcoinKey;
         public PublicKey PublicKey => _bitcoinKey.PubKey.Wrap();
 
-        public BitcoinKey NormalizedBitcoinKey
+        private BitcoinKey NormalizedBitcoinKey
         {
             get
             {
@@ -30,6 +30,11 @@ namespace AElf.HdWallet
             Array.Resize(ref keyByte, 32);
             var bitcoinKey = new BitcoinKey(keyByte, -1, false);
             return bitcoinKey.Wrap();
+        }
+        
+        public string ToHex()
+        {
+            return Encoders.Hex.EncodeData(NormalizedBitcoinKey.ToBytes());
         }
 
         internal static PrivateKey From(BitcoinKey bitcoinKey)
